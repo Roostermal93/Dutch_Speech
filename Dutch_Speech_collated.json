@@ -1,5 +1,5 @@
 {
-    "count": 8,
+    "count": 11,
     "next": null,
     "previous": null,
     "results": [
@@ -11,11 +11,25 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Dutch/e3b8091d-cc57-4e43-9200-cedd4a84d0cf_du_Female.mp4"
         },
         {
+            "id": "131e72ac-c9e6-44c8-8435-025d5c529e92",
+            "collectionId": "Dutch",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Dutch/131e72ac-c9e6-44c8-8435-025d5c529e92_du_Male.mp4"
+        },
+        {
             "id": "90b2201e-cfa9-4dba-8278-88f7c3f8f264",
             "collectionId": "Dutch",
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Dutch/90b2201e-cfa9-4dba-8278-88f7c3f8f264_du_Female.mp4"
+        },
+        {
+            "id": "4d612ffb-759c-4e95-9032-1e6c940c2b95",
+            "collectionId": "Dutch",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Dutch/4d612ffb-759c-4e95-9032-1e6c940c2b95_du_Female.mp4"
         },
         {
             "id": "9bbaf039-4265-4997-91bb-bbeb1e66cfbe",
@@ -44,6 +58,13 @@
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Dutch/9f073789-d22a-4546-a1a9-1441bc6eb627_nl_Female.mp4"
+        },
+        {
+            "id": "3d0acd76-f0c2-4243-b133-b741673a3ba2",
+            "collectionId": "Dutch",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Dutch/3d0acd76-f0c2-4243-b133-b741673a3ba2_du_Male.mp4"
         },
         {
             "id": "fcf580bb-7252-42e4-8720-a7dd06779d71",
